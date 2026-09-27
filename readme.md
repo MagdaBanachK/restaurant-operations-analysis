@@ -29,10 +29,10 @@ Restauracja *Taste of the World Café* wprowadziła na początku roku nowe menu.
 ### C. Sprzedaż według Kategorii
 | Kategoria | Liczba sprzedanych dań | Łączny Przychód ($) | Średnia Cena ($) |
 | :--- | :---: | :---: | :---: |
-| **Asian** | [3470] | $[49560.65] \vert{}$[14.28] |
-| **Italian** | [2948] | $[49462.70] \vert{}$[16.78] |
-| **Mexican** | [2945] | $[41032.65] \vert{}$[13.93] |
-| **American** | [2734] | $[30597.97] \vert{}$[11.19] |
+| **Asian** | 3470 | $49560.65 | $14.28 |
+| **Italian** | 2948 | $49462.70 | $16.78 |
+| **Mexican** | 2945 | $41032.65 | $13.93 |
+| **American** | 2734 | $30597.97 | $11.19 |
 
 ### D. Bestsellery vs Najmniej Popularne Dania
 - 🏆 **Top 3 Bestsellery:** [Hamburger], [Edamame], [Korean Beef Bowl]
